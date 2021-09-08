@@ -14,3 +14,7 @@ Switzerland is a beautiful, **tourist-attracting country**. It is most famous fo
     2. Airways
     3. Railways
 5. Better to prefer roadways for roadside scenes. It takes 3 hrs to reach the desired destination.
+6. Things I bring for maximum enjoyment.
+    * Playing cards
+    * Alcohol
+    * Meat
