@@ -36,5 +36,5 @@ Following table describes food items that are famous in India
 ***
 
 ## Quotes that I like most
-> The way to get started is to quit talking and begin doing *Walt Disney*
+> The way to get started is to quit talking and begin doing *Walt Disney* <br>
 > Whoever is happy will make others happy too *Anne Frank*
