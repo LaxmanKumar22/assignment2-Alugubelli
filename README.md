@@ -43,7 +43,7 @@ Following table describes food items that are famous in India
 
 >A Gray code is an encoding of numbers so that adjacent numbers have a single digit differing by 1. The term Gray code is often used to refer to a "reflected" code, or more specifically still, the binary reflected Gray code.
 
-[Link to graycode description](https://mathworld.wolfram.com/GrayCode.html)
+Link to graycode description <https://mathworld.wolfram.com/GrayCode.html>
 
 ```
 int rev_g (int g) {
@@ -53,4 +53,4 @@ int rev_g (int g) {
   return n;
 }
 ```
-[Link to CP algorithms](https://cp-algorithms.com/algebra/gray-code.html)
+Link to CP algorithms <https://cp-algorithms.com/algebra/gray-code.html>
