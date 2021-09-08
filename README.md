@@ -38,3 +38,19 @@ Following table describes food items that are famous in India
 ## Quotes that I like most
 > The way to get started is to quit talking and begin doing -*Walt Disney* <br>
 > Whoever is happy will make others happy too -*Anne Frank*
+
+## Code Fencing
+
+>A Gray code is an encoding of numbers so that adjacent numbers have a single digit differing by 1. The term Gray code is often used to refer to a "reflected" code, or more specifically still, the binary reflected Gray code.
+
+[Link to graycode description](https://mathworld.wolfram.com/GrayCode.html)
+
+```
+int rev_g (int g) {
+  int n = 0;
+  for (; g; g >>= 1)
+    n ^= g;
+  return n;
+}
+```
+[Link to CP algorithms](https://cp-algorithms.com/algebra/gray-code.html)
