@@ -21,6 +21,8 @@ Switzerland is a beautiful, **tourist-attracting country**. It is most famous fo
 
 [Link of aboutme](https://github.com/LaxmanKumar22/assignment2-Alugubelli/blob/main/AboutMe.md)
 
+***
+
 # food Table
 
 Following table describes food items that are famous in India
@@ -30,3 +32,9 @@ Following table describes food items that are famous in India
 | Biryani | Hyderabad| $40 |
 | Putharekhulu | Athreyapuram| $70 |
 | Jangri | Hanamkonda | $20 |
+
+***
+
+## Quotes that I like most
+> The way to get started is to quit talking and begin doing *Walt Disney*
+> Whoever is happy will make others happy too *Anne Frank*
