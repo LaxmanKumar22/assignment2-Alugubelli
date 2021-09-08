@@ -20,3 +20,13 @@ Switzerland is a beautiful, **tourist-attracting country**. It is most famous fo
     * Meat
 
 [Link of aboutme](https://github.com/LaxmanKumar22/assignment2-Alugubelli/blob/main/AboutMe.md)
+
+# food Table
+
+Following table describes food items that are famous in India
+| Name | Location | Cost |
+| --- | --- | --- |
+| Laddu | Nalgonda| $50 |
+| Biryani | Hyderabad| $40 |
+| Putharekhulu | Athreyapuram| $70 |
+| Jangri | Hanamkonda | $20 |
